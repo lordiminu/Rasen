@@ -42,8 +42,3 @@ header{
     border-radius: 10px;
     transition: 0.5s;
 }
-@media screen and(max-width:400px){
-    .menu{
-        display: none;
-    }
-}
